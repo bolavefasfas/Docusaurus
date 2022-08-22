@@ -31,11 +31,17 @@ You may be curious t find out How to Check if Your Windows 10 is Activated With 
 3. When your Windows command window opens, type the following code- slmgr/dli, and press Enter to execute it.
 4. For a more detailed licensing information, you may also use this code: slmgr/dlv.
 5.After few seconds, a Windows Script Host dialog will open and show you what type of Windows 10 license is installed on your PC.
-![](https://edutechtainment.com/wp-content/uploads/2020/12/License-1.jpg)
-![](https://edutechtainment.com/wp-content/uploads/2020/12/License-2-700x341.jpg)
-![](https://edutechtainment.com/wp-content/uploads/2020/12/License-3.jpg)
-![](https://edutechtainment.com/wp-content/uploads/2020/12/License-4-700x407.jpg)
+
+![file_id](https://edutechtainment.com/wp-content/uploads/2020/12/License-1.jpg)
+
+![file_id](https://edutechtainment.com/wp-content/uploads/2020/12/License-2-700x341.jpg)
+
+![file_id](https://edutechtainment.com/wp-content/uploads/2020/12/License-3.jpg)
+
+![file_id](https://edutechtainment.com/wp-content/uploads/2020/12/License-4-700x407.jpg)
+
 **Conclusion**
+
 That’s all guys. Now you know How to Check if Your Windows 10 is Activated With an OEM, Retail or Volume License type. Stay subscribed to HHackpedia to find out how to check your Windows Activation expiry date or if your Windows PC is Permanently Activated.
 
 Credits @edutechtainment
