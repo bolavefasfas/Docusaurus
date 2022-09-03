@@ -1,13 +1,11 @@
 ---
 sidebar_position: 1
 ---
-
+----
 ## Telegram Mirror Leech Bot Deploy Guide 
-
+----
 ### Requirements
 - Telegram Account
-
-- Heroku Account
 
 - Github Account
 
