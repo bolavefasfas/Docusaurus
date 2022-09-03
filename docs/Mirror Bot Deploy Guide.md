@@ -180,9 +180,9 @@ copy 0.json + 1.json + 2.json + 3.json + 4.json + 5.json + 6.json + 7.json + 8.j
   Copy your database url, and fill DATABASE_URL variable with it
 
 3. Fly.io 
+
   [Wiki link to create Postgress on Fly.io](https://fly.io/docs/getting-started/multi-region-databases)
+
 ### Credits 
  @All Devs Who contributed in Project
- 
-
-
+ [ME](https://t.me/CaptainLightyear)
