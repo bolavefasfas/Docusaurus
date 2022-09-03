@@ -34,8 +34,12 @@ You may be curious t find out How to Check if Your Windows 10 is Activated With 
 
 1. Open a command prompt. Press the Windows logo key and the R keys simultaneously (Win Logo key + R). Type cmd and press the Enter key.
 2. Before running the next command, ensure you don’t have any software program that blocks Windows Script Host dialog box from popping up. If you do have, ensure you disable it. One of the popular programs that disable this feature is Smadav Antivitrus. The commands you will be running is totally harmless and 100% safe.
-3. When your Windows command window opens, type the following code- ```bash slmgr/dli```, and press Enter to execute it.
-4. For a more detailed licensing information, you may also use this code: ```bash slmgr/dlv```
+3. When your Windows command window opens, type the following code- 
+```bash 
+slmgr/dli```, and press Enter to execute it.
+4. For a more detailed licensing information, you may also use this code: 
+```bash 
+slmgr/dlv```
 5.After few seconds, a Windows Script Host dialog will open and show you what type of Windows 10 license is installed on your PC.
 
 ![file_id](https://edutechtainment.com/wp-content/uploads/2020/12/License-1.jpg)
