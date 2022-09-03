@@ -1,7 +1,7 @@
 ---
 sidebar_position: 1
 ---
-
+----
 ## How to Check if Your Windows 10 is Activated With an OEM, Retai
 ----
 ### 1. Introduction 
