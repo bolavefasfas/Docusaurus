@@ -117,7 +117,7 @@ $emails = Get-ChildItem .\**.json |Get-Content -Raw |ConvertFrom-Json |Select -E
 
 - Copy all mails from \accounts\emails.txt and paste in 'Group members' field, then press 'Add Members'
 
-- open your SHARED DRIVE and add this google group (it will be something like blahblah@googlegroups.com) as 'Content Manager'. Done!
+- open your SHARED DRIVE and add this google group (it will be something like your@googlegroups.com) as 'Content Manager'. Done!
 
 - Don't forget delete emails.txt in your local drive
 
@@ -139,7 +139,7 @@ python add_to_team_drive.py -d YourSharedDriveID
 
 ### Make Index Listing with Bhadoo 
 
-https://gitlab.com/ParveenBhadooOfficial/Google-Drive-Index
+[BhadooIndex](https://gitlab.com/ParveenBhadooOfficial/Google-Drive-Index)
 
 - Go to dash.cloudflare.com
 
