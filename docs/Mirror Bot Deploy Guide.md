@@ -161,23 +161,36 @@ copy 0.json + 1.json + 2.json + 3.json + 4.json + 5.json + 6.json + 7.json + 8.j
 
 ### Generate Database
 1. Using Railway
-  Go to railway and create account
-  Start new project
-  Press on Provision PostgreSQL
-  After creating database press on PostgresSQL
-  Go to Connect column
-  Copy Postgres Connection URL and fill DATABASE_URL variable with it
+
+ - Go to railway and create account
+
+  - Start new project
+
+Press on Provision PostgreSQL
+
+After creating database press on PostgresSQL
+
+Go to Connect column
+
+Copy Postgres Connection URL and fill DATABASE_URL variable with it
 
 2. Using ElephantSQL
 
-  Go to elephantsql and create account
-  Hit Create New Instance
-  Follow the further instructions in the screen
-  Hit Select Region
-  Hit Review
-  Hit Create instance
-  Select your database name
-  Copy your database url, and fill DATABASE_URL variable with it
+Go to elephantsql and create account
+
+Hit Create New Instance
+
+Follow the further instructions in the screen
+
+Hit Select Region
+
+Hit Review
+
+Hit Create instance
+
+Select your database name
+
+Copy your database url, and fill DATABASE_URL variable with it
 
 3. Fly.io 
 
