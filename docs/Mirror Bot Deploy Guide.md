@@ -215,7 +215,35 @@ sudo apt update -y ; sudo apt upgrade -y; sudo apt autoremove -y; sudo apt insta
 sudo docker-compose up --build
 ```
 
+## Gdtot Cookies
+To Clone or Leech gdtot link follow these steps:
+1. Login/Register to [gdtot](https://new.gdtot.top).
+2. Copy this script and paste it in browser address bar.
+   - **Note**: After pasting it check at the beginning of the script in broswer address bar if `javascript:` exists or not, if not so write it as shown below.
+   ```javascript
+   javascript:(function () {
+    const input = document.createElement('input');
+    COOKIE = JSON.parse(JSON.stringify({cookie : document.cookie}));
+    input.value = COOKIE['cookie'].split('crypt=')[1];
+    document.body.appendChild(input);
+    input.focus();
+    input.select();
+    var result = document.execCommand('copy');
+    document.body.removeChild(input);
+     if(result)
+       alert('Crypt copied to clipboard');
+     else
+       prompt('Failed to copy Crypt. Manually copy below Crypt\n\n', input.value);
+   })();
+   ```
+   - After pressing enter your browser will prompt a alert.
+3. Now you'll get Crypt value in your clipboard
+   ```
+   NGxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxWdSVT0%3D
+   ```
+4. From this you have to paste value for **CRYPT** in config.env file.
 
+-----
 ### Credits 
   **Thanks to all Devs who contributed in Project**
   
