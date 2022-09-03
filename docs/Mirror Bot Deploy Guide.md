@@ -115,7 +115,7 @@ $emails = Get-ChildItem .\**.json |Get-Content -Raw |ConvertFrom-Json |Select -E
 
 - Copy all mails from \accounts\emails.txt and paste in 'Group members' field, then press 'Add Members'
 
-- open your SHARED DRIVE and add this google group (it will be something like your@googlegroups.com) as 'Content Manager'. Done!
+- open your SHARED DRIVE and add this google group (it will be something like `your@googlegroups.com`) as 'Content Manager'. Done!
 
 - Don't forget delete emails.txt in your local drive
 
@@ -137,7 +137,7 @@ python add_to_team_drive.py -d YourSharedDriveID
 
 ### Make Index Listing with Bhadoo 
 
-[BhadooIndex](https://gitlab.com/ParveenBhadooOfficial/Google-Drive-Index)
+**[BhadooIndex](https://gitlab.com/ParveenBhadooOfficial/Google-Drive-Index)**
 
 - Go to dash.cloudflare.com
 
@@ -181,7 +181,7 @@ copy 0.json + 1.json + 2.json + 3.json + 4.json + 5.json + 6.json + 7.json + 8.j
 
 3. Fly.io 
 
-  [Wiki link to create Postgress on Fly.io](https://fly.io/docs/getting-started/multi-region-databases)
+  **[Wiki link to create Postgress on Fly.io](https://fly.io/docs/getting-started/multi-region-databases)**
 
 ### Credits 
  @All Devs Who contributed in Project
