@@ -21,7 +21,7 @@ sidebar_position: 1
 
 - Fill with your number , Choose Desktop,  Fill App title and Short name to any name you want.
 
-![file_id](https://telegra.ph/file/8f69a32e8b61296ea10f9.png)
+![file_id](https://graph.org/file/6bca45eebfaf3d3e6f41a.png)
 
 the values will be
 
