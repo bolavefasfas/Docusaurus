@@ -3,7 +3,7 @@ sidebar_position: 1
 ---
 
 ## How to Check if Your Windows 10 is Activated With an OEM, Retai
-
+----
 ### Introduction 
 
 Hey guys. Today I will be explaining How to Check if Your Windows 10 is Activated With an OEM, Retail, or Volume License type. I realized many Windows users don’t realise the subtle differences between these versions of Windows 10 OS licenses. According to Microsoft, Windows 10 is the safest OS ever!
