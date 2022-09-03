@@ -40,7 +40,7 @@ You may be curious t find out How to Check if Your Windows 10 is Activated With 
 slmgr/dli
 ```
 
-`slmgr/dli`, and press Enter to execute it.
+, and press Enter to execute it.
 
 4. For a more detailed licensing information, you may also use this code: 
 
