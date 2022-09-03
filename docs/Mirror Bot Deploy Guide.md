@@ -107,6 +107,13 @@ python gen_sa_accounts.py --quick-setup 1 --new-only
 ```
 $emails = Get-ChildItem .\**.json |Get-Content -Raw |ConvertFrom-Json |Select -ExpandProperty client_email >>emails.txt
 ```
+
+- **For linux **
+
+```
+grep -oPh '"client_email": "\K[^"]+' *.json > emails.txt
+```
+
 - Go to groups.google.com
 
 - create a new group (DON'T add SA in the 3rd step while creating group)
