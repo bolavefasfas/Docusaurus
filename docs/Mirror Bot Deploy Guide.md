@@ -23,7 +23,7 @@ sidebar_position: 1
 
 the values will be
 
--- App api_id:  
+-- App api_id :  
 
 -- App api_hash : 
 
@@ -45,9 +45,9 @@ the values will be
 ### ENABLE Required API
 - Go to console.cloud.google.com/apis/library
 
---- ENABLE Google Drive API
+--- ENABLE `Google Drive API`
 
---- ENABLE Identity and Access Management (IAM) API
+--- ENABLE `Identity and Access Management (IAM) API`
 
 ### Create Token.Pickle + Token_sa.Pickle + Service Accounts JSON Files from Windows CMD
 
