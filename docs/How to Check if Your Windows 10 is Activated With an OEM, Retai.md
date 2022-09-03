@@ -37,7 +37,8 @@ You may be curious t find out How to Check if Your Windows 10 is Activated With 
 3. When your Windows command window opens, type the following code- 
 
 ```bash 
-slmgr/dli```
+slmgr/dli
+```
 
 , and press Enter to execute it.
 
