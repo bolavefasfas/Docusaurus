@@ -203,6 +203,19 @@ copy 0.json + 1.json + 2.json + 3.json + 4.json + 5.json + 6.json + 7.json + 8.j
 
  - **[Wiki link to create Postgress on Fly.io](https://fly.io/docs/getting-started/multi-region-databases)**
 
+### Docker Install and Deploy
+
+``` 
+sudo apt update -y ; sudo apt upgrade -y; sudo apt autoremove -y; sudo apt install docker-compose -y
+```
+
+- Got to the respective folder where **docker-compose.yml** file is present
+
+```
+sudo docker-compose up --build
+```
+
+
 ### Credits 
   **Thanks to all Devs who contributed in Project**
   
