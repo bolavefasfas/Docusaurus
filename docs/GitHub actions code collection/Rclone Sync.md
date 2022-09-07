@@ -1,4 +1,8 @@
-GithubUsername/Reponame/.github/workflows/rclone-sync.yml
+---
+sidebar_position: 1
+---
+
+### GithubUsername/Reponame/.github/workflows/rclone-sync.yml
 
  - No wiki will be provided.
  - The code is only for those who undersand what they are doing  
