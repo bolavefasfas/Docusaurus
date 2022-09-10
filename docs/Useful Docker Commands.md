@@ -22,3 +22,9 @@ sudo docker-compose up --build
 ```bash
 docker system prune -f -a
 ```
+
+### 4. Docker Stop command 
+
+```bash 
+docker stop containername/image id 
+```
