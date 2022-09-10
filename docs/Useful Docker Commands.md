@@ -26,5 +26,5 @@ docker system prune -f -a
 ### 4. Docker Stop command 
 
 ```bash 
-docker stop containername/image id 
+docker stop container name/image id 
 ```
